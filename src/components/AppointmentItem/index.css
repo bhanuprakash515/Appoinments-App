@@ -1,0 +1,35 @@
+.appointment-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff;
+  height: 100px;
+  width: 300px;
+  border: 1px solid #b5b7c4;
+  font-family: 'roboto';
+  border-radius: 10px;
+  text-align: start;
+  margin: 10px;
+}
+.inside-cont {
+  display: flex;
+  justify-content: space-between;
+}
+
+.para-date {
+  color: #b5b7c4;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+.para-1 {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 20px;
+  padding-left: 10px;
+}
+.star-img {
+  height: 37px;
+  width: 37px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
